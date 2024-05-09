@@ -1,0 +1,7 @@
+//award[5]/title
+//award[6]/author
+//award[year=2000]/title
+//award[title='Possession']/author
+//award[author='J M Coetzee']/title
+//award[year>=1997]/author
+count(//award)

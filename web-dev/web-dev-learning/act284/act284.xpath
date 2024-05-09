@@ -1,0 +1,7 @@
+
+
+/CDlist/CD/performance/composition
+/CDlist/CD/performance/soloist
+//performance[not(descendant::soloist)]
+//CD[contains(publisher,'Deutsche Grammophon')]/performance [contains(orchestra,'London Symphony Orchestra')] /soloist  
+/CDlist[CD[performance[orchestra='London Symphony Orchestra']]]/CD

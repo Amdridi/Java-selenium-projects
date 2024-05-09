@@ -1,0 +1,33 @@
+<evenenement>
+  <event>
+    <title>Comuniqué de presse </title>
+    <theme>politique</theme>
+    <Date>09-10-2003</Date>
+    <lieu cap="20">Tunis</lieu>
+    <budget>30 EUR</budget>
+      <activite>
+        <title> pause café</title>
+        <duree> 30 </duree>
+      </activite>
+      <participants>
+      <invite>
+         <nom> ameni</nom>
+         <id>2222</id>
+         <nometab>talan </nometab>
+      </invite>
+       <intervenant>
+         <nom> ameni</nom>
+         <id>2222</id>
+         <nometab>talan </nometab>
+         <lan>Francais</lan>
+      </intervenant>
+      </participants>
+    </event>
+    <event>
+    <title>Ouverture du club</title>
+    <theme>informatique</theme>
+    <Date>09-10-2005</Date>
+    <lieu cap="20">Bizerte</lieu>
+    <budget>40 DNT</budget>
+    </event>
+</evenenement>

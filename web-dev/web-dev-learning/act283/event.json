@@ -1,0 +1,43 @@
+{
+	"evenenement": {
+		"event": [
+			{
+				"title": "Comuniqué de presse",
+				"theme": "politique",
+				"Date": "09-10-2003",
+				"lieu": {
+					"_cap": "20",
+					"__text": "Tunis"
+				},
+				"budget": "30 EUR",
+				"activite": {
+					"title": "pause café",
+					"duree": "30"
+				},
+				"participants": {
+					"invite": {
+						"nom": "ameni",
+						"id": "2222",
+						"nometab": "talan"
+					},
+					"intervenant": {
+						"nom": "ameni",
+						"id": "2222",
+						"nometab": "talan",
+						"lan": "Francais"
+					}
+				}
+			},
+			{
+				"title": "Ouverture du club",
+				"theme": "informatique",
+				"Date": "09-10-2005",
+				"lieu": {
+					"_cap": "20",
+					"__text": "Bizerte"
+				},
+				"budget": "40 DNT"
+			}
+		]
+	}
+}

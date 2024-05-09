@@ -1,0 +1,616 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1680275833734,9586,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-2,text,true,,2836782,25999,5,5,https://pharma-shop.tn/connexion?back=my-account,863,0,474
+1680275833734,863,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-2,text,true,,1586,504,5,5,https://pharma-shop.tn/mon-compte,863,0,474
+1680275834598,1276,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-2,text,true,,88757,1015,5,5,https://pharma-shop.tn/connexion?back=my-account,747,0,0
+1680275835881,715,https://pharma-shop.tn/mon-compte-2,200,OK,Thread Group 1-2,bin,true,,6267,1170,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,555,0,281
+1680275835881,7085,https://pharma-shop.tn/mon-compte-3,200,OK,Thread Group 1-2,text,true,,791768,1769,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,146,0,0
+1680275835881,6166,https://pharma-shop.tn/mon-compte-0,200,OK,,text,true,,781341,1194,0,0,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,146,0,0
+1680275842506,460,https://pharma-shop.tn/mon-compte-1,200,OK,ResDownload-Thread-16,text,true,,10427,575,0,0,https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap,325,0,255
+1680275835881,630,https://pharma-shop.tn/mon-compte-4,200,OK,Thread Group 1-2,text,true,,10029,517,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,331,0,264
+1680275835881,565,https://pharma-shop.tn/mon-compte-5,200,OK,Thread Group 1-2,text,true,,3801,1160,5,5,https://pharma-shop.tn/img/cms/book.svg,358,0,278
+1680275835881,725,https://pharma-shop.tn/mon-compte-6,200,OK,Thread Group 1-2,bin,true,,10559,1156,5,5,https://pharma-shop.tn/img/logo.png,358,0,279
+1680275835881,875,https://pharma-shop.tn/mon-compte-7,200,OK,Thread Group 1-2,text,true,,13707,1161,5,5,https://pharma-shop.tn/img/cms/link6.svg,544,0,281
+1680275836447,348,https://pharma-shop.tn/mon-compte-8,200,OK,Thread Group 1-2,bin,true,,6954,1165,5,5,https://pharma-shop.tn/img/cms/nutrition.png,124,0,0
+1680275836512,1502,https://pharma-shop.tn/mon-compte-9,200,OK,Thread Group 1-2,text,true,,22471,1161,5,5,https://pharma-shop.tn/img/cms/link3.svg,723,0,413
+1680275836597,1144,https://pharma-shop.tn/mon-compte-10,200,OK,Thread Group 1-2,bin,true,,31955,1178,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,190,0,0
+1680275836607,2578,https://pharma-shop.tn/mon-compte-11,200,OK,Thread Group 1-2,bin,true,,122518,1171,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,188,0,0
+1680275836757,2154,https://pharma-shop.tn/mon-compte-12,200,OK,Thread Group 1-2,bin,true,,87257,1161,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,167,0,0
+1680275836795,2615,https://pharma-shop.tn/mon-compte-13,200,OK,Thread Group 1-2,bin,true,,120108,1163,5,5,https://pharma-shop.tn/img/cms/klorane.png,168,0,0
+1680275837741,1612,https://pharma-shop.tn/mon-compte-14,200,OK,Thread Group 1-2,bin,true,,95271,1161,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,120,0,0
+1680275838016,2278,https://pharma-shop.tn/mon-compte-15,200,OK,Thread Group 1-2,bin,true,,110924,1170,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,153,0,0
+1680275838913,1716,https://pharma-shop.tn/mon-compte-16,200,OK,Thread Group 1-2,bin,true,,98652,1159,5,5,https://pharma-shop.tn/img/cms/svr.png,192,0,0
+1680275839187,1865,https://pharma-shop.tn/mon-compte-17,200,OK,Thread Group 1-2,bin,true,,120398,1161,5,5,https://pharma-shop.tn/img/cms/sobio.png,214,0,0
+1680275839355,1154,https://pharma-shop.tn/mon-compte-18,200,OK,Thread Group 1-2,bin,true,,79851,1162,5,5,https://pharma-shop.tn/img/cms/beurer.png,143,0,0
+1680275839412,2002,https://pharma-shop.tn/mon-compte-19,200,OK,Thread Group 1-2,bin,true,,102399,1169,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,143,0,0
+1680275840295,192,https://pharma-shop.tn/mon-compte-20,200,OK,Thread Group 1-2,bin,true,,8208,1166,5,5,https://pharma-shop.tn/img/cms/logofooter.png,191,0,0
+1680275840488,369,https://pharma-shop.tn/mon-compte-21,200,OK,Thread Group 1-2,text,true,,1994,1206,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,369,0,0
+1680275840509,2812,https://pharma-shop.tn/mon-compte-22,200,OK,Thread Group 1-2,text,true,,901348,1194,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,533,0,0
+1680275833935,9457,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-3,text,true,,2836805,25999,5,5,https://pharma-shop.tn/connexion?back=my-account,560,0,270
+1680275833935,560,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-3,text,true,,1592,504,5,5,https://pharma-shop.tn/mon-compte,560,0,270
+1680275834498,1010,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-3,text,true,,88768,1015,5,5,https://pharma-shop.tn/connexion?back=my-account,688,0,0
+1680275835565,548,https://pharma-shop.tn/mon-compte-2,200,OK,Thread Group 1-3,bin,true,,6265,1170,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,428,0,257
+1680275835565,7353,https://pharma-shop.tn/mon-compte-3,200,OK,Thread Group 1-3,text,true,,791772,1769,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,72,0,0
+1680275835565,6417,https://pharma-shop.tn/mon-compte-0,200,OK,,text,true,,781345,1194,0,0,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,72,0,0
+1680275842506,412,https://pharma-shop.tn/mon-compte-1,200,OK,ResDownload-Thread-6,text,true,,10427,575,0,0,https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap,329,0,255
+1680275835566,546,https://pharma-shop.tn/mon-compte-4,200,OK,Thread Group 1-3,text,true,,10029,517,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,407,0,265
+1680275835566,466,https://pharma-shop.tn/mon-compte-5,200,OK,Thread Group 1-3,text,true,,3807,1160,5,5,https://pharma-shop.tn/img/cms/book.svg,423,0,254
+1680275835565,592,https://pharma-shop.tn/mon-compte-6,200,OK,Thread Group 1-3,bin,true,,10557,1156,5,5,https://pharma-shop.tn/img/logo.png,429,0,255
+1680275835566,623,https://pharma-shop.tn/mon-compte-7,200,OK,Thread Group 1-3,text,true,,13705,1161,5,5,https://pharma-shop.tn/img/cms/link6.svg,424,0,254
+1680275836032,178,https://pharma-shop.tn/mon-compte-8,200,OK,Thread Group 1-3,bin,true,,6952,1165,5,5,https://pharma-shop.tn/img/cms/nutrition.png,85,0,0
+1680275836114,492,https://pharma-shop.tn/mon-compte-9,200,OK,Thread Group 1-3,text,true,,22471,1161,5,5,https://pharma-shop.tn/img/cms/link3.svg,88,0,0
+1680275836115,1565,https://pharma-shop.tn/mon-compte-10,200,OK,Thread Group 1-3,bin,true,,31961,1178,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,453,0,313
+1680275836158,2269,https://pharma-shop.tn/mon-compte-11,200,OK,Thread Group 1-3,bin,true,,122518,1171,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,82,0,0
+1680275836190,1970,https://pharma-shop.tn/mon-compte-12,200,OK,Thread Group 1-3,bin,true,,87263,1161,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,241,0,0
+1680275836211,2332,https://pharma-shop.tn/mon-compte-13,200,OK,Thread Group 1-3,bin,true,,120100,1163,5,5,https://pharma-shop.tn/img/cms/klorane.png,255,0,0
+1680275836607,1733,https://pharma-shop.tn/mon-compte-14,200,OK,Thread Group 1-3,bin,true,,95269,1161,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,183,0,0
+1680275837680,2143,https://pharma-shop.tn/mon-compte-15,200,OK,Thread Group 1-3,bin,true,,110920,1170,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,120,0,0
+1680275838161,1671,https://pharma-shop.tn/mon-compte-16,200,OK,Thread Group 1-3,bin,true,,98660,1159,5,5,https://pharma-shop.tn/img/cms/svr.png,177,0,0
+1680275838341,1835,https://pharma-shop.tn/mon-compte-17,200,OK,Thread Group 1-3,bin,true,,120392,1161,5,5,https://pharma-shop.tn/img/cms/sobio.png,186,0,0
+1680275838427,1154,https://pharma-shop.tn/mon-compte-18,200,OK,Thread Group 1-3,bin,true,,79855,1162,5,5,https://pharma-shop.tn/img/cms/beurer.png,206,0,0
+1680275838543,1586,https://pharma-shop.tn/mon-compte-19,200,OK,Thread Group 1-3,bin,true,,102399,1169,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,245,0,0
+1680275839583,269,https://pharma-shop.tn/mon-compte-20,200,OK,Thread Group 1-3,bin,true,,8210,1166,5,5,https://pharma-shop.tn/img/cms/logofooter.png,269,0,0
+1680275839824,232,https://pharma-shop.tn/mon-compte-21,200,OK,Thread Group 1-3,text,true,,2002,1206,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,232,0,0
+1680275839834,3559,https://pharma-shop.tn/mon-compte-22,200,OK,Thread Group 1-3,text,true,,901338,1194,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,222,0,0
+1680275833583,9918,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-1,text,true,,2836785,25999,5,5,https://pharma-shop.tn/connexion?back=my-account,935,0,609
+1680275833583,935,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-1,text,true,,1590,504,5,5,https://pharma-shop.tn/mon-compte,935,0,609
+1680275834522,995,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-1,text,true,,88770,1015,5,5,https://pharma-shop.tn/connexion?back=my-account,660,0,0
+1680275835565,548,https://pharma-shop.tn/mon-compte-2,200,OK,Thread Group 1-1,bin,true,,6261,1170,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,428,0,254
+1680275835565,7437,https://pharma-shop.tn/mon-compte-3,200,OK,Thread Group 1-1,text,true,,791780,1769,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,62,0,0
+1680275835565,6294,https://pharma-shop.tn/mon-compte-0,200,OK,,text,true,,781353,1194,0,0,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,62,0,0
+1680275842506,496,https://pharma-shop.tn/mon-compte-1,200,OK,ResDownload-Thread-5,text,true,,10427,575,0,0,https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap,377,0,298
+1680275835566,532,https://pharma-shop.tn/mon-compte-4,200,OK,Thread Group 1-1,text,true,,10029,517,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,405,0,262
+1680275835565,462,https://pharma-shop.tn/mon-compte-5,200,OK,Thread Group 1-1,text,true,,3803,1160,5,5,https://pharma-shop.tn/img/cms/book.svg,406,0,243
+1680275835566,545,https://pharma-shop.tn/mon-compte-6,200,OK,Thread Group 1-1,bin,true,,10561,1156,5,5,https://pharma-shop.tn/img/logo.png,404,0,244
+1680275835566,624,https://pharma-shop.tn/mon-compte-7,200,OK,Thread Group 1-1,text,true,,13699,1161,5,5,https://pharma-shop.tn/img/cms/link6.svg,427,0,255
+1680275836028,160,https://pharma-shop.tn/mon-compte-8,200,OK,Thread Group 1-1,bin,true,,6948,1165,5,5,https://pharma-shop.tn/img/cms/nutrition.png,89,0,0
+1680275836099,1286,https://pharma-shop.tn/mon-compte-9,200,OK,Thread Group 1-1,text,true,,22469,1161,5,5,https://pharma-shop.tn/img/cms/link3.svg,473,0,350
+1680275836113,800,https://pharma-shop.tn/mon-compte-10,200,OK,Thread Group 1-1,bin,true,,31961,1178,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,79,0,0
+1680275836114,2213,https://pharma-shop.tn/mon-compte-11,200,OK,Thread Group 1-1,bin,true,,122520,1171,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,75,0,0
+1680275836190,1867,https://pharma-shop.tn/mon-compte-12,200,OK,Thread Group 1-1,bin,true,,87259,1161,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,233,0,0
+1680275836191,2666,https://pharma-shop.tn/mon-compte-13,200,OK,Thread Group 1-1,bin,true,,120100,1163,5,5,https://pharma-shop.tn/img/cms/klorane.png,248,0,0
+1680275836914,1824,https://pharma-shop.tn/mon-compte-14,200,OK,Thread Group 1-1,bin,true,,95269,1161,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,310,0,0
+1680275837386,2147,https://pharma-shop.tn/mon-compte-15,200,OK,Thread Group 1-1,bin,true,,110928,1170,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,173,0,0
+1680275838058,1579,https://pharma-shop.tn/mon-compte-16,200,OK,Thread Group 1-1,bin,true,,98650,1159,5,5,https://pharma-shop.tn/img/cms/svr.png,177,0,0
+1680275838327,1744,https://pharma-shop.tn/mon-compte-17,200,OK,Thread Group 1-1,bin,true,,120396,1161,5,5,https://pharma-shop.tn/img/cms/sobio.png,182,0,0
+1680275838741,1385,https://pharma-shop.tn/mon-compte-18,200,OK,Thread Group 1-1,bin,true,,79859,1162,5,5,https://pharma-shop.tn/img/cms/beurer.png,259,0,0
+1680275838860,1662,https://pharma-shop.tn/mon-compte-19,200,OK,Thread Group 1-1,bin,true,,102395,1169,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,225,0,0
+1680275839535,492,https://pharma-shop.tn/mon-compte-20,200,OK,Thread Group 1-1,bin,true,,8202,1166,5,5,https://pharma-shop.tn/img/cms/logofooter.png,289,0,0
+1680275839639,278,https://pharma-shop.tn/mon-compte-21,200,OK,Thread Group 1-1,text,true,,1996,1206,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,278,0,0
+1680275839918,3584,https://pharma-shop.tn/mon-compte-22,200,OK,Thread Group 1-1,text,true,,901340,1194,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,178,0,0
+1680275834137,9369,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-4,text,true,,2836764,25999,5,5,https://pharma-shop.tn/connexion?back=my-account,581,0,232
+1680275834137,581,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-4,text,true,,1580,504,5,5,https://pharma-shop.tn/mon-compte,581,0,232
+1680275834719,1520,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-4,text,true,,88763,1015,5,5,https://pharma-shop.tn/connexion?back=my-account,788,0,0
+1680275836245,925,https://pharma-shop.tn/mon-compte-2,200,OK,Thread Group 1-4,bin,true,,6257,1170,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,673,0,514
+1680275836245,6718,https://pharma-shop.tn/mon-compte-3,200,OK,Thread Group 1-4,text,true,,791772,1769,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,248,0,0
+1680275836245,5988,https://pharma-shop.tn/mon-compte-0,200,OK,,text,true,,781345,1194,0,0,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,248,0,0
+1680275842506,457,https://pharma-shop.tn/mon-compte-1,200,OK,ResDownload-Thread-28,text,true,,10427,575,0,0,https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap,325,0,255
+1680275836245,978,https://pharma-shop.tn/mon-compte-4,200,OK,Thread Group 1-4,text,true,,10029,517,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,554,0,432
+1680275836245,940,https://pharma-shop.tn/mon-compte-5,200,OK,Thread Group 1-4,text,true,,3817,1160,5,5,https://pharma-shop.tn/img/cms/book.svg,677,0,514
+1680275836245,1205,https://pharma-shop.tn/mon-compte-6,200,OK,Thread Group 1-4,bin,true,,10557,1156,5,5,https://pharma-shop.tn/img/logo.png,685,0,517
+1680275836245,1291,https://pharma-shop.tn/mon-compte-7,200,OK,Thread Group 1-4,text,true,,13705,1161,5,5,https://pharma-shop.tn/img/cms/link6.svg,685,0,518
+1680275837171,419,https://pharma-shop.tn/mon-compte-8,200,OK,Thread Group 1-4,bin,true,,6960,1165,5,5,https://pharma-shop.tn/img/cms/nutrition.png,215,0,0
+1680275837186,816,https://pharma-shop.tn/mon-compte-9,200,OK,Thread Group 1-4,text,true,,22475,1161,5,5,https://pharma-shop.tn/img/cms/link3.svg,200,0,0
+1680275837223,1655,https://pharma-shop.tn/mon-compte-10,200,OK,Thread Group 1-4,bin,true,,31957,1178,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,691,0,547
+1680275837451,2713,https://pharma-shop.tn/mon-compte-11,200,OK,Thread Group 1-4,bin,true,,122510,1171,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,175,0,0
+1680275837537,1899,https://pharma-shop.tn/mon-compte-12,200,OK,Thread Group 1-4,bin,true,,87259,1161,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,219,0,0
+1680275837591,2494,https://pharma-shop.tn/mon-compte-13,200,OK,Thread Group 1-4,bin,true,,120100,1163,5,5,https://pharma-shop.tn/img/cms/klorane.png,178,0,0
+1680275838003,2068,https://pharma-shop.tn/mon-compte-14,200,OK,Thread Group 1-4,bin,true,,95273,1161,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,146,0,0
+1680275838880,2499,https://pharma-shop.tn/mon-compte-15,200,OK,Thread Group 1-4,bin,true,,110926,1170,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,209,0,0
+1680275839438,1754,https://pharma-shop.tn/mon-compte-16,200,OK,Thread Group 1-4,bin,true,,98644,1159,5,5,https://pharma-shop.tn/img/cms/svr.png,141,0,0
+1680275840073,1747,https://pharma-shop.tn/mon-compte-17,200,OK,Thread Group 1-4,bin,true,,120390,1161,5,5,https://pharma-shop.tn/img/cms/sobio.png,152,0,0
+1680275840087,1454,https://pharma-shop.tn/mon-compte-18,200,OK,Thread Group 1-4,bin,true,,79851,1162,5,5,https://pharma-shop.tn/img/cms/beurer.png,149,0,0
+1680275840165,1627,https://pharma-shop.tn/mon-compte-19,200,OK,Thread Group 1-4,bin,true,,102395,1169,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,182,0,0
+1680275841193,290,https://pharma-shop.tn/mon-compte-20,200,OK,Thread Group 1-4,bin,true,,8202,1166,5,5,https://pharma-shop.tn/img/cms/logofooter.png,282,0,0
+1680275841379,168,https://pharma-shop.tn/mon-compte-21,200,OK,Thread Group 1-4,text,true,,1998,1206,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,168,0,0
+1680275841484,2023,https://pharma-shop.tn/mon-compte-22,200,OK,Thread Group 1-4,text,true,,901344,1194,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,237,0,0
+1680275834335,9409,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-5,text,true,,2836775,25999,5,5,https://pharma-shop.tn/connexion?back=my-account,457,0,140
+1680275834335,457,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-5,text,true,,1584,504,5,5,https://pharma-shop.tn/mon-compte,457,0,140
+1680275834793,1430,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-5,text,true,,88774,1015,5,5,https://pharma-shop.tn/connexion?back=my-account,699,0,0
+1680275836229,733,https://pharma-shop.tn/mon-compte-2,200,OK,Thread Group 1-5,bin,true,,6265,1170,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,597,0,443
+1680275836229,6992,https://pharma-shop.tn/mon-compte-3,200,OK,Thread Group 1-5,text,true,,791772,1769,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,600,0,491
+1680275836229,6578,https://pharma-shop.tn/mon-compte-0,200,OK,,text,true,,781345,1194,0,0,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,600,0,491
+1680275842810,411,https://pharma-shop.tn/mon-compte-1,200,OK,ResDownload-Thread-22,text,true,,10427,575,0,0,https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap,353,0,298
+1680275836229,994,https://pharma-shop.tn/mon-compte-4,200,OK,Thread Group 1-5,text,true,,10029,517,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,570,0,450
+1680275836229,340,https://pharma-shop.tn/mon-compte-5,200,OK,Thread Group 1-5,text,true,,3811,1160,5,5,https://pharma-shop.tn/img/cms/book.svg,254,0,0
+1680275836229,1175,https://pharma-shop.tn/mon-compte-6,200,OK,Thread Group 1-5,bin,true,,10557,1156,5,5,https://pharma-shop.tn/img/logo.png,599,0,469
+1680275836229,1188,https://pharma-shop.tn/mon-compte-7,200,OK,Thread Group 1-5,text,true,,13699,1161,5,5,https://pharma-shop.tn/img/cms/link6.svg,625,0,491
+1680275836571,342,https://pharma-shop.tn/mon-compte-8,200,OK,Thread Group 1-5,bin,true,,6948,1165,5,5,https://pharma-shop.tn/img/cms/nutrition.png,341,0,0
+1680275836914,768,https://pharma-shop.tn/mon-compte-9,200,OK,Thread Group 1-5,text,true,,22475,1161,5,5,https://pharma-shop.tn/img/cms/link3.svg,309,0,0
+1680275836962,1063,https://pharma-shop.tn/mon-compte-10,200,OK,Thread Group 1-5,bin,true,,31953,1178,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,298,0,0
+1680275837223,3368,https://pharma-shop.tn/mon-compte-11,200,OK,Thread Group 1-5,bin,true,,122516,1171,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,691,0,547
+1680275837404,2062,https://pharma-shop.tn/mon-compte-12,200,OK,Thread Group 1-5,bin,true,,87259,1161,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,186,0,0
+1680275837417,2592,https://pharma-shop.tn/mon-compte-13,200,OK,Thread Group 1-5,bin,true,,120104,1163,5,5,https://pharma-shop.tn/img/cms/klorane.png,175,0,0
+1680275837682,1809,https://pharma-shop.tn/mon-compte-14,200,OK,Thread Group 1-5,bin,true,,95275,1161,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,118,0,0
+1680275838026,2155,https://pharma-shop.tn/mon-compte-15,200,OK,Thread Group 1-5,bin,true,,110928,1170,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,152,0,0
+1680275839468,2017,https://pharma-shop.tn/mon-compte-16,200,OK,Thread Group 1-5,bin,true,,98648,1159,5,5,https://pharma-shop.tn/img/cms/svr.png,210,0,0
+1680275839493,2169,https://pharma-shop.tn/mon-compte-17,200,OK,Thread Group 1-5,bin,true,,120390,1161,5,5,https://pharma-shop.tn/img/cms/sobio.png,489,0,0
+1680275840012,1560,https://pharma-shop.tn/mon-compte-18,200,OK,Thread Group 1-5,bin,true,,79851,1162,5,5,https://pharma-shop.tn/img/cms/beurer.png,163,0,0
+1680275840182,1616,https://pharma-shop.tn/mon-compte-19,200,OK,Thread Group 1-5,bin,true,,102399,1169,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,195,0,0
+1680275840593,472,https://pharma-shop.tn/mon-compte-20,200,OK,Thread Group 1-5,bin,true,,8202,1166,5,5,https://pharma-shop.tn/img/cms/logofooter.png,337,0,0
+1680275841066,350,https://pharma-shop.tn/mon-compte-21,200,OK,Thread Group 1-5,text,true,,1994,1206,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,350,0,0
+1680275841416,2329,https://pharma-shop.tn/mon-compte-22,200,OK,Thread Group 1-5,text,true,,901342,1194,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,158,0,0
+1680275845984,1186,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-1,text,true,,103788,27475,5,5,https://pharma-shop.tn/connexion?back=my-account,302,0,0
+1680275845984,302,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-1,text,true,,912,1154,5,5,https://pharma-shop.tn/mon-compte,302,0,0
+1680275846287,663,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-1,text,true,,87325,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,617,0,0
+1680275846959,40,https://pharma-shop.tn/mon-compte-2,304,Not Modified,Thread Group 1-1,,true,,762,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275846959,36,https://pharma-shop.tn/mon-compte-3,304,Not Modified,Thread Group 1-1,,true,,808,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275846959,24,https://pharma-shop.tn/mon-compte-4,304,Not Modified,Thread Group 1-1,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275846959,37,https://pharma-shop.tn/mon-compte-5,304,Not Modified,Thread Group 1-1,,true,,792,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275846959,38,https://pharma-shop.tn/mon-compte-6,304,Not Modified,Thread Group 1-1,,true,,734,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275846959,34,https://pharma-shop.tn/mon-compte-7,304,Not Modified,Thread Group 1-1,,true,,796,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275846983,39,https://pharma-shop.tn/mon-compte-8,304,Not Modified,Thread Group 1-1,,true,,736,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,0
+1680275846995,125,https://pharma-shop.tn/mon-compte-9,304,Not Modified,Thread Group 1-1,,true,,794,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,83
+1680275846996,116,https://pharma-shop.tn/mon-compte-10,304,Not Modified,Thread Group 1-1,,true,,738,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,79
+1680275846997,117,https://pharma-shop.tn/mon-compte-11,304,Not Modified,Thread Group 1-1,,true,,738,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,80
+1680275846998,117,https://pharma-shop.tn/mon-compte-12,304,Not Modified,Thread Group 1-1,,true,,736,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,80
+1680275846999,108,https://pharma-shop.tn/mon-compte-13,304,Not Modified,Thread Group 1-1,,true,,740,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,72
+1680275847023,37,https://pharma-shop.tn/mon-compte-14,304,Not Modified,Thread Group 1-1,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275847061,37,https://pharma-shop.tn/mon-compte-15,304,Not Modified,Thread Group 1-1,,true,,745,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275847098,36,https://pharma-shop.tn/mon-compte-16,304,Not Modified,Thread Group 1-1,,true,,742,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275847107,35,https://pharma-shop.tn/mon-compte-17,304,Not Modified,Thread Group 1-1,,true,,744,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275847113,42,https://pharma-shop.tn/mon-compte-18,304,Not Modified,Thread Group 1-1,,true,,746,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275847115,38,https://pharma-shop.tn/mon-compte-19,304,Not Modified,Thread Group 1-1,,true,,738,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275847116,35,https://pharma-shop.tn/mon-compte-20,304,Not Modified,Thread Group 1-1,,true,,746,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275847121,33,https://pharma-shop.tn/mon-compte-21,304,Not Modified,Thread Group 1-1,,true,,687,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275847135,35,https://pharma-shop.tn/mon-compte-22,304,Not Modified,Thread Group 1-1,,true,,799,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275847172,450,https://pharma-shop.tn/module/ets_sociallogin/oauth,200,OK,Thread Group 1-1,text,true,,821,1270,5,5,https://pharma-shop.tn/module/ets_sociallogin/oauth,449,0,0
+1680275846686,1251,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-2,text,true,,103751,27475,5,5,https://pharma-shop.tn/connexion?back=my-account,325,0,0
+1680275846686,325,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-2,text,true,,906,1154,5,5,https://pharma-shop.tn/mon-compte,325,0,0
+1680275847011,703,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-2,text,true,,87318,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,672,0,0
+1680275847722,40,https://pharma-shop.tn/mon-compte-2,304,Not Modified,Thread Group 1-2,,true,,760,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275847722,39,https://pharma-shop.tn/mon-compte-3,304,Not Modified,Thread Group 1-2,,true,,808,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275847722,20,https://pharma-shop.tn/mon-compte-4,304,Not Modified,Thread Group 1-2,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275847722,36,https://pharma-shop.tn/mon-compte-5,304,Not Modified,Thread Group 1-2,,true,,792,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275847722,43,https://pharma-shop.tn/mon-compte-6,304,Not Modified,Thread Group 1-2,,true,,738,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275847722,36,https://pharma-shop.tn/mon-compte-7,304,Not Modified,Thread Group 1-2,,true,,794,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275847743,119,https://pharma-shop.tn/mon-compte-8,304,Not Modified,Thread Group 1-2,,true,,734,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,69
+1680275847759,103,https://pharma-shop.tn/mon-compte-9,304,Not Modified,Thread Group 1-2,,true,,796,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,66
+1680275847759,106,https://pharma-shop.tn/mon-compte-10,304,Not Modified,Thread Group 1-2,,true,,734,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,68
+1680275847761,103,https://pharma-shop.tn/mon-compte-11,304,Not Modified,Thread Group 1-2,,true,,744,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,66
+1680275847762,120,https://pharma-shop.tn/mon-compte-12,304,Not Modified,Thread Group 1-2,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,67
+1680275847766,38,https://pharma-shop.tn/mon-compte-13,304,Not Modified,Thread Group 1-2,,true,,734,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275847804,40,https://pharma-shop.tn/mon-compte-14,304,Not Modified,Thread Group 1-2,,true,,736,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275847845,59,https://pharma-shop.tn/mon-compte-15,304,Not Modified,Thread Group 1-2,,true,,743,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275847862,38,https://pharma-shop.tn/mon-compte-16,304,Not Modified,Thread Group 1-2,,true,,738,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275847862,38,https://pharma-shop.tn/mon-compte-17,304,Not Modified,Thread Group 1-2,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275847865,36,https://pharma-shop.tn/mon-compte-18,304,Not Modified,Thread Group 1-2,,true,,738,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275847865,43,https://pharma-shop.tn/mon-compte-19,304,Not Modified,Thread Group 1-2,,true,,738,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275847883,34,https://pharma-shop.tn/mon-compte-20,304,Not Modified,Thread Group 1-2,,true,,740,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275847901,32,https://pharma-shop.tn/mon-compte-21,304,Not Modified,Thread Group 1-2,,true,,685,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275847901,36,https://pharma-shop.tn/mon-compte-22,304,Not Modified,Thread Group 1-2,,true,,803,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275846678,1420,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-5,text,true,,103786,27475,5,5,https://pharma-shop.tn/connexion?back=my-account,372,0,0
+1680275846678,372,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-5,text,true,,902,1154,5,5,https://pharma-shop.tn/mon-compte,372,0,0
+1680275847051,793,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-5,text,true,,87321,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,739,0,0
+1680275847864,101,https://pharma-shop.tn/mon-compte-2,304,Not Modified,Thread Group 1-5,,true,,762,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,64
+1680275847864,50,https://pharma-shop.tn/mon-compte-3,304,Not Modified,Thread Group 1-5,,true,,812,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275847864,27,https://pharma-shop.tn/mon-compte-4,304,Not Modified,Thread Group 1-5,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275847864,46,https://pharma-shop.tn/mon-compte-5,304,Not Modified,Thread Group 1-5,,true,,794,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275847864,40,https://pharma-shop.tn/mon-compte-6,304,Not Modified,Thread Group 1-5,,true,,740,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275847864,48,https://pharma-shop.tn/mon-compte-7,304,Not Modified,Thread Group 1-5,,true,,796,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275847891,156,https://pharma-shop.tn/mon-compte-8,304,Not Modified,Thread Group 1-5,,true,,742,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,93
+1680275847904,35,https://pharma-shop.tn/mon-compte-9,304,Not Modified,Thread Group 1-5,,true,,790,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,0
+1680275847910,161,https://pharma-shop.tn/mon-compte-10,304,Not Modified,Thread Group 1-5,,true,,742,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,87
+1680275847912,143,https://pharma-shop.tn/mon-compte-11,304,Not Modified,Thread Group 1-5,,true,,740,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,84
+1680275847915,143,https://pharma-shop.tn/mon-compte-12,304,Not Modified,Thread Group 1-5,,true,,738,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,80
+1680275847940,39,https://pharma-shop.tn/mon-compte-13,304,Not Modified,Thread Group 1-5,,true,,734,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275847966,40,https://pharma-shop.tn/mon-compte-14,304,Not Modified,Thread Group 1-5,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275847980,41,https://pharma-shop.tn/mon-compte-15,304,Not Modified,Thread Group 1-5,,true,,739,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275848006,37,https://pharma-shop.tn/mon-compte-16,304,Not Modified,Thread Group 1-5,,true,,740,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275848022,38,https://pharma-shop.tn/mon-compte-17,304,Not Modified,Thread Group 1-5,,true,,748,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275848043,36,https://pharma-shop.tn/mon-compte-18,304,Not Modified,Thread Group 1-5,,true,,744,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275848047,37,https://pharma-shop.tn/mon-compte-19,304,Not Modified,Thread Group 1-5,,true,,744,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275848055,37,https://pharma-shop.tn/mon-compte-20,304,Not Modified,Thread Group 1-5,,true,,734,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275848058,31,https://pharma-shop.tn/mon-compte-21,304,Not Modified,Thread Group 1-5,,true,,691,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275848060,38,https://pharma-shop.tn/mon-compte-22,304,Not Modified,Thread Group 1-5,,true,,803,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275847073,1206,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-3,text,true,,103749,27475,5,5,https://pharma-shop.tn/connexion?back=my-account,270,0,0
+1680275847073,270,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-3,text,true,,904,1154,5,5,https://pharma-shop.tn/mon-compte,270,0,0
+1680275847343,664,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-3,text,true,,87316,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,612,0,0
+1680275848009,46,https://pharma-shop.tn/mon-compte-2,304,Not Modified,Thread Group 1-3,,true,,758,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275848009,46,https://pharma-shop.tn/mon-compte-3,304,Not Modified,Thread Group 1-3,,true,,806,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275848009,29,https://pharma-shop.tn/mon-compte-4,304,Not Modified,Thread Group 1-3,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275848009,119,https://pharma-shop.tn/mon-compte-5,304,Not Modified,Thread Group 1-3,,true,,796,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,82
+1680275848009,39,https://pharma-shop.tn/mon-compte-6,304,Not Modified,Thread Group 1-3,,true,,742,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275848009,43,https://pharma-shop.tn/mon-compte-7,304,Not Modified,Thread Group 1-3,,true,,792,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275848038,112,https://pharma-shop.tn/mon-compte-8,304,Not Modified,Thread Group 1-3,,true,,736,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,70
+1680275848048,98,https://pharma-shop.tn/mon-compte-9,304,Not Modified,Thread Group 1-3,,true,,798,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,63
+1680275848052,103,https://pharma-shop.tn/mon-compte-10,304,Not Modified,Thread Group 1-3,,true,,734,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,66
+1680275848056,110,https://pharma-shop.tn/mon-compte-11,304,Not Modified,Thread Group 1-3,,true,,736,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,73
+1680275848056,108,https://pharma-shop.tn/mon-compte-12,304,Not Modified,Thread Group 1-3,,true,,740,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,71
+1680275848129,37,https://pharma-shop.tn/mon-compte-13,304,Not Modified,Thread Group 1-3,,true,,746,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275848146,34,https://pharma-shop.tn/mon-compte-14,304,Not Modified,Thread Group 1-3,,true,,732,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275848151,34,https://pharma-shop.tn/mon-compte-15,304,Not Modified,Thread Group 1-3,,true,,741,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275848155,39,https://pharma-shop.tn/mon-compte-16,304,Not Modified,Thread Group 1-3,,true,,740,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275848164,37,https://pharma-shop.tn/mon-compte-17,304,Not Modified,Thread Group 1-3,,true,,738,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275848166,113,https://pharma-shop.tn/mon-compte-18,304,Not Modified,Thread Group 1-3,,true,,732,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,71
+1680275848167,37,https://pharma-shop.tn/mon-compte-19,304,Not Modified,Thread Group 1-3,,true,,742,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275848181,33,https://pharma-shop.tn/mon-compte-20,304,Not Modified,Thread Group 1-3,,true,,744,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275848185,30,https://pharma-shop.tn/mon-compte-21,304,Not Modified,Thread Group 1-3,,true,,683,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275848195,34,https://pharma-shop.tn/mon-compte-22,304,Not Modified,Thread Group 1-3,,true,,805,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275847940,391,https://pharma-shop.tn/module/ets_sociallogin/oauth,200,OK,Thread Group 1-2,text,true,,821,1256,5,5,https://pharma-shop.tn/module/ets_sociallogin/oauth,391,0,0
+1680275848102,395,https://pharma-shop.tn/module/ets_sociallogin/oauth,200,OK,Thread Group 1-5,text,true,,831,1257,5,5,https://pharma-shop.tn/module/ets_sociallogin/oauth,395,0,0
+1680275848282,382,https://pharma-shop.tn/module/ets_sociallogin/oauth,200,OK,Thread Group 1-3,text,true,,829,1263,5,5,https://pharma-shop.tn/module/ets_sociallogin/oauth,382,0,0
+1680275847490,1219,https://pharma-shop.tn/mon-compte,200,OK,Thread Group 1-4,text,true,,103814,27475,5,5,https://pharma-shop.tn/connexion?back=my-account,264,0,0
+1680275847490,264,https://pharma-shop.tn/mon-compte-0,302,Found,Thread Group 1-4,text,true,,908,1154,5,5,https://pharma-shop.tn/mon-compte,264,0,0
+1680275847755,652,https://pharma-shop.tn/mon-compte-1,200,OK,Thread Group 1-4,text,true,,87331,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,607,0,0
+1680275848413,128,https://pharma-shop.tn/mon-compte-2,304,Not Modified,Thread Group 1-4,,true,,758,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,77
+1680275848413,104,https://pharma-shop.tn/mon-compte-3,304,Not Modified,Thread Group 1-4,,true,,814,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,66
+1680275848413,19,https://pharma-shop.tn/mon-compte-4,304,Not Modified,Thread Group 1-4,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275848413,101,https://pharma-shop.tn/mon-compte-5,304,Not Modified,Thread Group 1-4,,true,,802,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,66
+1680275848413,101,https://pharma-shop.tn/mon-compte-6,304,Not Modified,Thread Group 1-4,,true,,744,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,66
+1680275848413,36,https://pharma-shop.tn/mon-compte-7,304,Not Modified,Thread Group 1-4,,true,,798,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275848432,133,https://pharma-shop.tn/mon-compte-8,304,Not Modified,Thread Group 1-4,,true,,738,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,67
+1680275848449,123,https://pharma-shop.tn/mon-compte-9,304,Not Modified,Thread Group 1-4,,true,,802,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,81
+1680275848515,102,https://pharma-shop.tn/mon-compte-10,304,Not Modified,Thread Group 1-4,,true,,740,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,66
+1680275848515,138,https://pharma-shop.tn/mon-compte-11,304,Not Modified,Thread Group 1-4,,true,,744,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,71
+1680275848519,36,https://pharma-shop.tn/mon-compte-12,304,Not Modified,Thread Group 1-4,,true,,740,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,0
+1680275848541,35,https://pharma-shop.tn/mon-compte-13,304,Not Modified,Thread Group 1-4,,true,,738,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275848555,37,https://pharma-shop.tn/mon-compte-14,304,Not Modified,Thread Group 1-4,,true,,744,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275848566,36,https://pharma-shop.tn/mon-compte-15,304,Not Modified,Thread Group 1-4,,true,,747,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275848573,42,https://pharma-shop.tn/mon-compte-16,304,Not Modified,Thread Group 1-4,,true,,740,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275848577,39,https://pharma-shop.tn/mon-compte-17,304,Not Modified,Thread Group 1-4,,true,,736,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275848592,117,https://pharma-shop.tn/mon-compte-18,304,Not Modified,Thread Group 1-4,,true,,740,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,72
+1680275848602,37,https://pharma-shop.tn/mon-compte-19,304,Not Modified,Thread Group 1-4,,true,,734,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275848615,39,https://pharma-shop.tn/mon-compte-20,304,Not Modified,Thread Group 1-4,,true,,736,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275848616,32,https://pharma-shop.tn/mon-compte-21,304,Not Modified,Thread Group 1-4,,true,,685,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275848617,34,https://pharma-shop.tn/mon-compte-22,304,Not Modified,Thread Group 1-4,,true,,807,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275847813,1006,https://pharma-shop.tn/connexion?back=my-account,200,OK,Thread Group 1-1,text,true,,102877,26321,5,5,https://pharma-shop.tn/connexion?back=my-account,617,0,0
+1680275847813,659,https://pharma-shop.tn/connexion?back=my-account-0,200,OK,Thread Group 1-1,text,true,,87326,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,617,0,0
+1680275848475,130,https://pharma-shop.tn/connexion?back=my-account-1,304,Not Modified,Thread Group 1-1,,true,,764,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,68
+1680275848475,130,https://pharma-shop.tn/connexion?back=my-account-2,304,Not Modified,Thread Group 1-1,,true,,808,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,68
+1680275848475,24,https://pharma-shop.tn/connexion?back=my-account-3,304,Not Modified,Thread Group 1-1,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275848475,37,https://pharma-shop.tn/connexion?back=my-account-4,304,Not Modified,Thread Group 1-1,,true,,792,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275848475,38,https://pharma-shop.tn/connexion?back=my-account-5,304,Not Modified,Thread Group 1-1,,true,,742,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275848475,103,https://pharma-shop.tn/connexion?back=my-account-6,304,Not Modified,Thread Group 1-1,,true,,798,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,67
+1680275848499,52,https://pharma-shop.tn/connexion?back=my-account-7,304,Not Modified,Thread Group 1-1,,true,,738,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,0
+1680275848513,107,https://pharma-shop.tn/connexion?back=my-account-8,304,Not Modified,Thread Group 1-1,,true,,802,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,69
+1680275848514,105,https://pharma-shop.tn/connexion?back=my-account-9,304,Not Modified,Thread Group 1-1,,true,,738,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,68
+1680275848551,41,https://pharma-shop.tn/connexion?back=my-account-10,304,Not Modified,Thread Group 1-1,,true,,740,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,0
+1680275848578,97,https://pharma-shop.tn/connexion?back=my-account-11,304,Not Modified,Thread Group 1-1,,true,,740,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,62
+1680275848592,101,https://pharma-shop.tn/connexion?back=my-account-12,304,Not Modified,Thread Group 1-1,,true,,748,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,65
+1680275848606,98,https://pharma-shop.tn/connexion?back=my-account-13,304,Not Modified,Thread Group 1-1,,true,,740,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,62
+1680275848606,103,https://pharma-shop.tn/connexion?back=my-account-14,304,Not Modified,Thread Group 1-1,,true,,739,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,67
+1680275848619,37,https://pharma-shop.tn/connexion?back=my-account-15,304,Not Modified,Thread Group 1-1,,true,,738,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275848620,37,https://pharma-shop.tn/connexion?back=my-account-16,304,Not Modified,Thread Group 1-1,,true,,732,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275848656,40,https://pharma-shop.tn/connexion?back=my-account-17,304,Not Modified,Thread Group 1-1,,true,,742,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275848657,36,https://pharma-shop.tn/connexion?back=my-account-18,304,Not Modified,Thread Group 1-1,,true,,734,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275848675,34,https://pharma-shop.tn/connexion?back=my-account-19,304,Not Modified,Thread Group 1-1,,true,,732,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275848694,125,https://pharma-shop.tn/connexion?back=my-account-20,304,Not Modified,Thread Group 1-1,,true,,691,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,66
+1680275848694,36,https://pharma-shop.tn/connexion?back=my-account-21,304,Not Modified,Thread Group 1-1,,true,,805,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275848709,409,https://pharma-shop.tn/module/ets_sociallogin/oauth,200,OK,Thread Group 1-4,text,true,,829,1255,5,5,https://pharma-shop.tn/module/ets_sociallogin/oauth,409,0,0
+1680275849918,912,https://pharma-shop.tn/connexion?back=my-account,200,OK,Thread Group 1-2,text,true,,102881,26321,5,5,https://pharma-shop.tn/connexion?back=my-account,627,0,0
+1680275849918,666,https://pharma-shop.tn/connexion?back=my-account-0,200,OK,Thread Group 1-2,text,true,,87320,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,627,0,0
+1680275850586,110,https://pharma-shop.tn/connexion?back=my-account-1,304,Not Modified,Thread Group 1-2,,true,,768,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,69
+1680275850586,36,https://pharma-shop.tn/connexion?back=my-account-2,304,Not Modified,Thread Group 1-2,,true,,816,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275850586,21,https://pharma-shop.tn/connexion?back=my-account-3,304,Not Modified,Thread Group 1-2,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275850586,34,https://pharma-shop.tn/connexion?back=my-account-4,304,Not Modified,Thread Group 1-2,,true,,792,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275850586,35,https://pharma-shop.tn/connexion?back=my-account-5,304,Not Modified,Thread Group 1-2,,true,,744,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275850586,102,https://pharma-shop.tn/connexion?back=my-account-6,304,Not Modified,Thread Group 1-2,,true,,792,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,67
+1680275850607,106,https://pharma-shop.tn/connexion?back=my-account-7,304,Not Modified,Thread Group 1-2,,true,,738,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,64
+1680275850620,105,https://pharma-shop.tn/connexion?back=my-account-8,304,Not Modified,Thread Group 1-2,,true,,800,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,66
+1680275850621,133,https://pharma-shop.tn/connexion?back=my-account-9,304,Not Modified,Thread Group 1-2,,true,,744,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,69
+1680275850622,120,https://pharma-shop.tn/connexion?back=my-account-10,304,Not Modified,Thread Group 1-2,,true,,736,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,60
+1680275850689,108,https://pharma-shop.tn/connexion?back=my-account-11,304,Not Modified,Thread Group 1-2,,true,,736,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,66
+1680275850696,105,https://pharma-shop.tn/connexion?back=my-account-12,304,Not Modified,Thread Group 1-2,,true,,738,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,66
+1680275850714,35,https://pharma-shop.tn/connexion?back=my-account-13,304,Not Modified,Thread Group 1-2,,true,,738,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275850726,38,https://pharma-shop.tn/connexion?back=my-account-14,304,Not Modified,Thread Group 1-2,,true,,739,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275850742,33,https://pharma-shop.tn/connexion?back=my-account-15,304,Not Modified,Thread Group 1-2,,true,,734,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275850749,39,https://pharma-shop.tn/connexion?back=my-account-16,304,Not Modified,Thread Group 1-2,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275850754,39,https://pharma-shop.tn/connexion?back=my-account-17,304,Not Modified,Thread Group 1-2,,true,,736,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275850764,49,https://pharma-shop.tn/connexion?back=my-account-18,304,Not Modified,Thread Group 1-2,,true,,740,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275850775,34,https://pharma-shop.tn/connexion?back=my-account-19,304,Not Modified,Thread Group 1-2,,true,,740,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275850789,32,https://pharma-shop.tn/connexion?back=my-account-20,304,Not Modified,Thread Group 1-2,,true,,689,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275850793,37,https://pharma-shop.tn/connexion?back=my-account-21,304,Not Modified,Thread Group 1-2,,true,,811,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275850133,921,https://pharma-shop.tn/connexion?back=my-account,200,OK,Thread Group 1-5,text,true,,102873,26321,5,5,https://pharma-shop.tn/connexion?back=my-account,629,0,0
+1680275850133,680,https://pharma-shop.tn/connexion?back=my-account-0,200,OK,Thread Group 1-5,text,true,,87322,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,629,0,0
+1680275850816,112,https://pharma-shop.tn/connexion?back=my-account-1,304,Not Modified,Thread Group 1-5,,true,,760,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,70
+1680275850816,104,https://pharma-shop.tn/connexion?back=my-account-2,304,Not Modified,Thread Group 1-5,,true,,814,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,67
+1680275850816,20,https://pharma-shop.tn/connexion?back=my-account-3,304,Not Modified,Thread Group 1-5,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275850816,112,https://pharma-shop.tn/connexion?back=my-account-4,304,Not Modified,Thread Group 1-5,,true,,796,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,63
+1680275850816,35,https://pharma-shop.tn/connexion?back=my-account-5,304,Not Modified,Thread Group 1-5,,true,,732,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275850816,101,https://pharma-shop.tn/connexion?back=my-account-6,304,Not Modified,Thread Group 1-5,,true,,796,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,61
+1680275850836,115,https://pharma-shop.tn/connexion?back=my-account-7,304,Not Modified,Thread Group 1-5,,true,,740,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,70
+1680275850851,34,https://pharma-shop.tn/connexion?back=my-account-8,304,Not Modified,Thread Group 1-5,,true,,800,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,0
+1680275850886,42,https://pharma-shop.tn/connexion?back=my-account-9,304,Not Modified,Thread Group 1-5,,true,,730,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,0
+1680275850917,35,https://pharma-shop.tn/connexion?back=my-account-10,304,Not Modified,Thread Group 1-5,,true,,744,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,0
+1680275850920,109,https://pharma-shop.tn/connexion?back=my-account-11,304,Not Modified,Thread Group 1-5,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,71
+1680275850928,41,https://pharma-shop.tn/connexion?back=my-account-12,304,Not Modified,Thread Group 1-5,,true,,742,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275850929,104,https://pharma-shop.tn/connexion?back=my-account-13,304,Not Modified,Thread Group 1-5,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,65
+1680275850929,103,https://pharma-shop.tn/connexion?back=my-account-14,304,Not Modified,Thread Group 1-5,,true,,739,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,67
+1680275850951,40,https://pharma-shop.tn/connexion?back=my-account-15,304,Not Modified,Thread Group 1-5,,true,,734,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275850952,35,https://pharma-shop.tn/connexion?back=my-account-16,304,Not Modified,Thread Group 1-5,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275850969,35,https://pharma-shop.tn/connexion?back=my-account-17,304,Not Modified,Thread Group 1-5,,true,,738,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275850987,34,https://pharma-shop.tn/connexion?back=my-account-18,304,Not Modified,Thread Group 1-5,,true,,740,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275850991,38,https://pharma-shop.tn/connexion?back=my-account-19,304,Not Modified,Thread Group 1-5,,true,,738,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275851004,32,https://pharma-shop.tn/connexion?back=my-account-20,304,Not Modified,Thread Group 1-5,,true,,685,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275851021,33,https://pharma-shop.tn/connexion?back=my-account-21,304,Not Modified,Thread Group 1-5,,true,,809,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275851076,936,https://pharma-shop.tn/connexion?back=my-account,200,OK,Thread Group 1-3,text,true,,102859,26321,5,5,https://pharma-shop.tn/connexion?back=my-account,646,0,0
+1680275851076,711,https://pharma-shop.tn/connexion?back=my-account-0,200,OK,Thread Group 1-3,text,true,,87316,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,646,0,0
+1680275851793,38,https://pharma-shop.tn/connexion?back=my-account-1,304,Not Modified,Thread Group 1-3,,true,,760,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275851793,99,https://pharma-shop.tn/connexion?back=my-account-2,304,Not Modified,Thread Group 1-3,,true,,810,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,59
+1680275851793,17,https://pharma-shop.tn/connexion?back=my-account-3,304,Not Modified,Thread Group 1-3,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275851793,36,https://pharma-shop.tn/connexion?back=my-account-4,304,Not Modified,Thread Group 1-3,,true,,796,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275851793,37,https://pharma-shop.tn/connexion?back=my-account-5,304,Not Modified,Thread Group 1-3,,true,,746,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275851793,39,https://pharma-shop.tn/connexion?back=my-account-6,304,Not Modified,Thread Group 1-3,,true,,794,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275851810,104,https://pharma-shop.tn/connexion?back=my-account-7,304,Not Modified,Thread Group 1-3,,true,,736,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,64
+1680275851829,104,https://pharma-shop.tn/connexion?back=my-account-8,304,Not Modified,Thread Group 1-3,,true,,798,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,66
+1680275851831,106,https://pharma-shop.tn/connexion?back=my-account-9,304,Not Modified,Thread Group 1-3,,true,,736,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,68
+1680275851831,110,https://pharma-shop.tn/connexion?back=my-account-10,304,Not Modified,Thread Group 1-3,,true,,738,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,68
+1680275851833,99,https://pharma-shop.tn/connexion?back=my-account-11,304,Not Modified,Thread Group 1-3,,true,,730,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,63
+1680275851893,106,https://pharma-shop.tn/connexion?back=my-account-12,304,Not Modified,Thread Group 1-3,,true,,738,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,65
+1680275851914,37,https://pharma-shop.tn/connexion?back=my-account-13,304,Not Modified,Thread Group 1-3,,true,,732,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275851933,37,https://pharma-shop.tn/connexion?back=my-account-14,304,Not Modified,Thread Group 1-3,,true,,733,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275851935,37,https://pharma-shop.tn/connexion?back=my-account-15,304,Not Modified,Thread Group 1-3,,true,,740,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275851938,37,https://pharma-shop.tn/connexion?back=my-account-16,304,Not Modified,Thread Group 1-3,,true,,748,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275851942,36,https://pharma-shop.tn/connexion?back=my-account-17,304,Not Modified,Thread Group 1-3,,true,,736,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275851951,47,https://pharma-shop.tn/connexion?back=my-account-18,304,Not Modified,Thread Group 1-3,,true,,744,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275851970,35,https://pharma-shop.tn/connexion?back=my-account-19,304,Not Modified,Thread Group 1-3,,true,,740,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275851972,29,https://pharma-shop.tn/connexion?back=my-account-20,304,Not Modified,Thread Group 1-3,,true,,689,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275851975,37,https://pharma-shop.tn/connexion?back=my-account-21,304,Not Modified,Thread Group 1-3,,true,,811,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275851458,1010,https://pharma-shop.tn/connexion?back=my-account,200,OK,Thread Group 1-4,text,true,,102855,26321,5,5,https://pharma-shop.tn/connexion?back=my-account,701,0,74
+1680275851458,769,https://pharma-shop.tn/connexion?back=my-account-0,200,OK,Thread Group 1-4,text,true,,87322,1169,5,5,https://pharma-shop.tn/connexion?back=my-account,701,0,74
+1680275852229,101,https://pharma-shop.tn/connexion?back=my-account-1,304,Not Modified,Thread Group 1-4,,true,,762,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,68
+1680275852229,35,https://pharma-shop.tn/connexion?back=my-account-2,304,Not Modified,Thread Group 1-4,,true,,814,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275852229,18,https://pharma-shop.tn/connexion?back=my-account-3,304,Not Modified,Thread Group 1-4,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275852229,103,https://pharma-shop.tn/connexion?back=my-account-4,304,Not Modified,Thread Group 1-4,,true,,798,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,67
+1680275852229,108,https://pharma-shop.tn/connexion?back=my-account-5,304,Not Modified,Thread Group 1-4,,true,,740,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,68
+1680275852229,104,https://pharma-shop.tn/connexion?back=my-account-6,304,Not Modified,Thread Group 1-4,,true,,790,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,69
+1680275852247,138,https://pharma-shop.tn/connexion?back=my-account-7,304,Not Modified,Thread Group 1-4,,true,,740,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,71
+1680275852265,35,https://pharma-shop.tn/connexion?back=my-account-8,304,Not Modified,Thread Group 1-4,,true,,796,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,0
+1680275852300,37,https://pharma-shop.tn/connexion?back=my-account-9,304,Not Modified,Thread Group 1-4,,true,,736,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,0
+1680275852330,96,https://pharma-shop.tn/connexion?back=my-account-10,304,Not Modified,Thread Group 1-4,,true,,742,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,62
+1680275852332,119,https://pharma-shop.tn/connexion?back=my-account-11,304,Not Modified,Thread Group 1-4,,true,,732,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,75
+1680275852333,135,https://pharma-shop.tn/connexion?back=my-account-12,304,Not Modified,Thread Group 1-4,,true,,736,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,73
+1680275852337,39,https://pharma-shop.tn/connexion?back=my-account-13,304,Not Modified,Thread Group 1-4,,true,,732,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275852338,36,https://pharma-shop.tn/connexion?back=my-account-14,304,Not Modified,Thread Group 1-4,,true,,733,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275852375,38,https://pharma-shop.tn/connexion?back=my-account-15,304,Not Modified,Thread Group 1-4,,true,,738,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275852377,39,https://pharma-shop.tn/connexion?back=my-account-16,304,Not Modified,Thread Group 1-4,,true,,736,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275852385,37,https://pharma-shop.tn/connexion?back=my-account-17,304,Not Modified,Thread Group 1-4,,true,,740,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275852414,39,https://pharma-shop.tn/connexion?back=my-account-18,304,Not Modified,Thread Group 1-4,,true,,748,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275852416,44,https://pharma-shop.tn/connexion?back=my-account-19,304,Not Modified,Thread Group 1-4,,true,,740,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275852423,36,https://pharma-shop.tn/connexion?back=my-account-20,304,Not Modified,Thread Group 1-4,,true,,683,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275852427,35,https://pharma-shop.tn/connexion?back=my-account-21,304,Not Modified,Thread Group 1-4,,true,,809,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275852595,1260,https://pharma-shop.tn/identite,200,OK,Thread Group 1-1,text,true,,103801,27471,5,5,https://pharma-shop.tn/connexion?back=identity,253,0,0
+1680275852595,253,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-1,text,true,,898,1152,5,5,https://pharma-shop.tn/identite,253,0,0
+1680275852848,753,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-1,text,true,,87310,1167,5,5,https://pharma-shop.tn/connexion?back=identity,686,0,0
+1680275853603,42,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-1,,true,,762,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275853603,121,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-1,,true,,808,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,62
+1680275853603,27,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-1,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275853603,35,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-1,,true,,792,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275853603,38,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-1,,true,,734,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275853603,112,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-1,,true,,802,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,70
+1680275853631,94,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-1,,true,,744,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,60
+1680275853639,97,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-1,,true,,808,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,61
+1680275853641,103,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-1,,true,,744,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,66
+1680275853645,109,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-1,,true,,738,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,69
+1680275853716,105,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-1,,true,,740,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,67
+1680275853725,130,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-1,,true,,746,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,67
+1680275853726,35,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-1,,true,,742,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275853737,34,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-1,,true,,745,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275853744,38,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-1,,true,,740,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275853755,40,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-1,,true,,734,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275853761,37,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-1,,true,,746,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275853772,33,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-1,,true,,736,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275853783,37,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-1,,true,,746,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275853795,34,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-1,,true,,687,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275853798,38,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-1,,true,,811,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275853036,1270,https://pharma-shop.tn/identite,200,OK,Thread Group 1-2,text,true,,103767,27471,5,5,https://pharma-shop.tn/connexion?back=identity,278,0,0
+1680275853036,278,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-2,text,true,,902,1152,5,5,https://pharma-shop.tn/identite,278,0,0
+1680275853314,705,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-2,text,true,,87310,1167,5,5,https://pharma-shop.tn/connexion?back=identity,640,0,0
+1680275854024,38,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-2,,true,,762,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275854024,34,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-2,,true,,812,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275854024,25,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-2,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275854024,36,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-2,,true,,796,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275854024,35,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-2,,true,,736,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275854024,47,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-2,,true,,800,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275854049,115,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-2,,true,,738,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,65
+1680275854058,106,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-2,,true,,796,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,65
+1680275854060,104,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-2,,true,,732,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,62
+1680275854060,136,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-2,,true,,746,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,64
+1680275854063,119,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-2,,true,,738,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,70
+1680275854071,125,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-2,,true,,744,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,63
+1680275854164,115,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-2,,true,,738,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,81
+1680275854164,142,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-2,,true,,731,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,81
+1680275854164,48,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-2,,true,,748,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275854183,39,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-2,,true,,740,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275854196,55,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-2,,true,,736,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275854196,41,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-2,,true,,738,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275854213,44,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-2,,true,,740,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275854222,44,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-2,,true,,693,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275854237,37,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-2,,true,,803,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275853467,1256,https://pharma-shop.tn/identite,200,OK,Thread Group 1-5,text,true,,103760,27471,5,5,https://pharma-shop.tn/connexion?back=identity,322,0,64
+1680275853467,322,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-5,text,true,,902,1152,5,5,https://pharma-shop.tn/identite,322,0,64
+1680275853789,664,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-5,text,true,,87319,1167,5,5,https://pharma-shop.tn/connexion?back=identity,593,0,0
+1680275854459,106,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-5,,true,,768,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,69
+1680275854459,137,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-5,,true,,808,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,66
+1680275854459,25,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-5,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275854459,101,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-5,,true,,794,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,67
+1680275854459,118,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-5,,true,,740,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,77
+1680275854459,35,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-5,,true,,800,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275854485,131,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-5,,true,,732,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,64
+1680275854494,36,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-5,,true,,798,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,0
+1680275854530,36,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-5,,true,,740,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,0
+1680275854561,36,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-5,,true,,740,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,0
+1680275854566,105,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-5,,true,,748,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,68
+1680275854566,38,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-5,,true,,734,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275854578,39,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-5,,true,,734,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275854596,127,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-5,,true,,741,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,63
+1680275854597,34,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-5,,true,,740,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275854604,35,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-5,,true,,734,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275854617,36,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-5,,true,,736,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275854617,37,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-5,,true,,736,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275854631,35,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-5,,true,,732,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275854639,30,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-5,,true,,687,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275854653,38,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-5,,true,,809,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275854296,1292,https://pharma-shop.tn/identite,200,OK,Thread Group 1-3,text,true,,103763,27471,5,5,https://pharma-shop.tn/connexion?back=identity,255,0,0
+1680275854296,255,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-3,text,true,,896,1152,5,5,https://pharma-shop.tn/identite,255,0,0
+1680275854551,748,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-3,text,true,,87310,1167,5,5,https://pharma-shop.tn/connexion?back=identity,677,0,0
+1680275855303,52,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-3,,true,,770,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275855303,37,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-3,,true,,810,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275855303,26,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-3,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275855303,42,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-3,,true,,796,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275855303,38,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-3,,true,,736,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275855303,41,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-3,,true,,794,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275855329,130,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-3,,true,,742,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,67
+1680275855340,97,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-3,,true,,792,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,63
+1680275855341,104,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-3,,true,,734,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,64
+1680275855344,132,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-3,,true,,746,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,67
+1680275855345,99,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-3,,true,,736,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,64
+1680275855355,127,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-3,,true,,738,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,68
+1680275855437,35,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-3,,true,,734,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275855444,41,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-3,,true,,731,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275855445,36,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-3,,true,,746,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275855459,39,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-3,,true,,738,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275855473,36,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-3,,true,,746,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275855476,37,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-3,,true,,740,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275855481,38,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-3,,true,,750,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275855482,30,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-3,,true,,689,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275855485,103,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-3,,true,,801,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275855193,1421,https://pharma-shop.tn/identite,200,OK,Thread Group 1-4,text,true,,103779,27471,5,5,https://pharma-shop.tn/connexion?back=identity,400,0,64
+1680275855193,400,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-4,text,true,,904,1152,5,5,https://pharma-shop.tn/identite,400,0,64
+1680275855593,777,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-4,text,true,,87310,1167,5,5,https://pharma-shop.tn/connexion?back=identity,713,0,0
+1680275856372,140,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-4,,true,,766,1220,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,68
+1680275856372,103,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-4,,true,,816,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,65
+1680275856372,17,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-4,,true,,488,733,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275856372,34,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-4,,true,,790,1210,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275856372,101,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-4,,true,,740,1206,5,5,https://pharma-shop.tn/img/logo.png,0,0,66
+1680275856372,104,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-4,,true,,796,1211,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,67
+1680275856389,102,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-4,,true,,740,1215,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,66
+1680275856407,34,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-4,,true,,796,1211,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,0
+1680275856441,37,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-4,,true,,736,1228,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,0
+1680275856474,38,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-4,,true,,742,1221,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,0
+1680275856475,103,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-4,,true,,746,1211,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,67
+1680275856476,48,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-4,,true,,750,1213,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275856478,34,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-4,,true,,740,1211,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275856491,39,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-4,,true,,743,1220,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275856512,43,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-4,,true,,734,1209,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275856512,43,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-4,,true,,740,1211,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275856512,102,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-4,,true,,738,1212,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,67
+1680275856524,39,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-4,,true,,740,1219,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275856530,35,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-4,,true,,738,1216,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275856556,32,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-4,,true,,681,1287,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275856556,33,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-4,,true,,805,1244,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275857152,1501,https://pharma-shop.tn/identite,200,OK,Thread Group 1-5,text,true,,103771,28781,5,5,https://pharma-shop.tn/connexion?back=identity,367,0,74
+1680275857152,367,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-5,text,true,,896,1384,5,5,https://pharma-shop.tn/identite,367,0,74
+1680275857519,793,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-5,text,true,,87312,1216,5,5,https://pharma-shop.tn/connexion?back=identity,677,0,0
+1680275858317,167,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-5,,true,,768,1269,5,5,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,100
+1680275858317,154,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-5,,true,,816,1293,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,89
+1680275858317,52,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-5,,true,,488,782,5,5,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275858318,212,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-5,,true,,800,1259,5,5,https://pharma-shop.tn/img/cms/book.svg,0,0,130
+1680275858317,178,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-5,,true,,736,1255,5,5,https://pharma-shop.tn/img/logo.png,0,0,102
+1680275858317,56,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-5,,true,,792,1260,5,5,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275858369,177,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-5,,true,,732,1264,5,5,https://pharma-shop.tn/img/cms/nutrition.png,0,0,100
+1680275858373,169,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-5,,true,,796,1260,5,5,https://pharma-shop.tn/img/cms/link3.svg,0,0,111
+1680275858472,137,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-5,,true,,740,1277,5,5,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,91
+1680275858484,47,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-5,,true,,748,1270,5,5,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,0
+1680275858496,63,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-5,,true,,746,1260,5,5,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,0
+1680275858531,47,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-5,,true,,736,1262,5,5,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275858531,59,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-5,,true,,738,1260,5,5,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275858542,57,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-5,,true,,735,1269,5,5,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275858547,59,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-5,,true,,748,1258,5,5,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275858559,60,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-5,,true,,734,1260,5,5,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275858578,54,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-5,,true,,742,1261,5,5,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275858591,45,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-5,,true,,746,1268,5,5,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275858600,48,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-5,,true,,740,1265,5,5,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275858607,35,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-5,,true,,681,1336,5,5,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275858610,43,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-5,,true,,801,1293,5,5,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275834334,14902,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-5,,true,,3251796,137304,5,5,null,2542,9419,278
+1680275859226,1251,https://pharma-shop.tn/identite,200,OK,Thread Group 1-2,text,true,,103800,28781,4,4,https://pharma-shop.tn/connexion?back=identity,271,0,0
+1680275859226,271,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-2,text,true,,910,1384,4,4,https://pharma-shop.tn/identite,271,0,0
+1680275859498,707,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-2,text,true,,87315,1216,4,4,https://pharma-shop.tn/connexion?back=identity,643,0,0
+1680275860208,60,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-2,,true,,764,1269,4,4,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275860208,37,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-2,,true,,808,1293,4,4,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275860208,18,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-2,,true,,488,782,4,4,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275860208,35,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-2,,true,,798,1259,4,4,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275860208,38,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-2,,true,,738,1255,4,4,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275860208,37,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-2,,true,,788,1260,4,4,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275860227,138,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-2,,true,,740,1264,4,4,https://pharma-shop.tn/img/cms/nutrition.png,0,0,66
+1680275860244,100,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-2,,true,,798,1260,4,4,https://pharma-shop.tn/img/cms/link3.svg,0,0,62
+1680275860245,137,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-2,,true,,742,1277,4,4,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,71
+1680275860245,104,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-2,,true,,744,1270,4,4,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,68
+1680275860246,119,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-2,,true,,744,1260,4,4,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,70
+1680275860268,98,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-2,,true,,750,1262,4,4,https://pharma-shop.tn/img/cms/klorane.png,0,0,59
+1680275860345,39,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-2,,true,,740,1260,4,4,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275860349,43,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-2,,true,,747,1269,4,4,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275860366,111,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-2,,true,,738,1258,4,4,https://pharma-shop.tn/img/cms/svr.png,0,0,74
+1680275860366,39,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-2,,true,,734,1260,4,4,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275860366,38,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-2,,true,,740,1261,4,4,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275860382,36,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-2,,true,,738,1268,4,4,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275860385,40,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-2,,true,,738,1265,4,4,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275860393,31,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-2,,true,,693,1336,4,4,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275860404,34,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-2,,true,,805,1293,4,4,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275833734,14661,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-2,,true,,3251802,137303,4,4,null,2755,12085,474
+1680275863835,1362,https://pharma-shop.tn/identite,200,OK,Thread Group 1-4,text,true,,103743,28781,3,3,https://pharma-shop.tn/connexion?back=identity,361,0,64
+1680275863835,361,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-4,text,true,,902,1384,3,3,https://pharma-shop.tn/identite,361,0,64
+1680275864197,766,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-4,text,true,,87308,1216,3,3,https://pharma-shop.tn/connexion?back=identity,691,0,0
+1680275864967,135,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-4,,true,,760,1269,3,3,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,71
+1680275864967,103,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-4,,true,,820,1293,3,3,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,66
+1680275864967,23,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-4,,true,,488,782,3,3,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275864967,101,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-4,,true,,792,1259,3,3,https://pharma-shop.tn/img/cms/book.svg,0,0,65
+1680275864967,37,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-4,,true,,744,1255,3,3,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275864967,101,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-4,,true,,794,1260,3,3,https://pharma-shop.tn/img/cms/link6.svg,0,0,65
+1680275864990,114,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-4,,true,,732,1264,3,3,https://pharma-shop.tn/img/cms/nutrition.png,0,0,75
+1680275865005,36,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-4,,true,,796,1260,3,3,https://pharma-shop.tn/img/cms/link3.svg,0,0,0
+1680275865041,36,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-4,,true,,736,1277,3,3,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,0
+1680275865068,96,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-4,,true,,742,1270,3,3,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,61
+1680275865068,129,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-4,,true,,736,1260,3,3,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,62
+1680275865070,35,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-4,,true,,736,1262,3,3,https://pharma-shop.tn/img/cms/klorane.png,0,0,0
+1680275865077,40,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-4,,true,,734,1260,3,3,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275865103,39,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-4,,true,,737,1269,3,3,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275865105,39,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-4,,true,,740,1258,3,3,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275865105,36,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-4,,true,,736,1260,3,3,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275865117,38,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-4,,true,,744,1261,3,3,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275865141,35,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-4,,true,,740,1268,3,3,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275865142,37,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-4,,true,,736,1265,3,3,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275865144,33,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-4,,true,,687,1336,3,3,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275865155,36,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-4,,true,,803,1293,3,3,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275834134,14790,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-4,,true,,3251784,137302,3,3,null,2716,16274,434
+1680275872159,1478,https://pharma-shop.tn/identite,200,OK,Thread Group 1-3,text,true,,103739,28781,2,2,https://pharma-shop.tn/connexion?back=identity,352,0,0
+1680275872159,352,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-3,text,true,,902,1384,2,2,https://pharma-shop.tn/identite,352,0,0
+1680275872511,805,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-3,text,true,,87310,1216,2,2,https://pharma-shop.tn/connexion?back=identity,761,0,0
+1680275873321,47,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-3,,true,,768,1269,2,2,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275873321,46,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-3,,true,,814,1293,2,2,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275873321,22,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-3,,true,,488,782,2,2,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275873321,50,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-3,,true,,794,1259,2,2,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275873321,42,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-3,,true,,732,1255,2,2,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275873321,45,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-3,,true,,796,1260,2,2,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275873344,118,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-3,,true,,736,1264,2,2,https://pharma-shop.tn/img/cms/nutrition.png,0,0,74
+1680275873363,116,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-3,,true,,798,1260,2,2,https://pharma-shop.tn/img/cms/link3.svg,0,0,72
+1680275873367,139,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-3,,true,,734,1277,2,2,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,71
+1680275873367,135,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-3,,true,,738,1270,2,2,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,69
+1680275873368,115,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-3,,true,,730,1260,2,2,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,67
+1680275873371,128,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-3,,true,,734,1262,2,2,https://pharma-shop.tn/img/cms/klorane.png,0,0,85
+1680275873463,39,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-3,,true,,736,1260,2,2,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275873479,41,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-3,,true,,737,1269,2,2,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275873483,37,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-3,,true,,748,1258,2,2,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275873499,40,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-3,,true,,738,1260,2,2,https://pharma-shop.tn/img/cms/sobio.png,0,0,0
+1680275873502,47,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-3,,true,,738,1261,2,2,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275873502,51,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-3,,true,,734,1268,2,2,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275873506,50,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-3,,true,,744,1265,2,2,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275873520,117,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-3,,true,,689,1336,2,2,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,79
+1680275873520,39,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-3,,true,,801,1293,2,2,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275833934,14751,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-3,,true,,3251744,137310,2,2,null,2465,24954,270
+1680275875004,1356,https://pharma-shop.tn/identite,200,OK,Thread Group 1-1,text,true,,103755,28781,1,1,https://pharma-shop.tn/connexion?back=identity,279,0,0
+1680275875004,279,https://pharma-shop.tn/identite-0,302,Found,Thread Group 1-1,text,true,,902,1384,1,1,https://pharma-shop.tn/identite,279,0,0
+1680275875284,790,https://pharma-shop.tn/identite-1,200,OK,Thread Group 1-1,text,true,,87306,1216,1,1,https://pharma-shop.tn/connexion?back=identity,715,0,0
+1680275876076,49,https://pharma-shop.tn/identite-2,304,Not Modified,Thread Group 1-1,,true,,764,1269,1,1,https://pharma-shop.tn/img/favicon.ico?1647529441,0,0,0
+1680275876076,54,https://pharma-shop.tn/identite-3,304,Not Modified,Thread Group 1-1,,true,,810,1293,1,1,https://pharma-shop.tn/themes/pharmashop/assets/cache/theme-ec13f3961.css,0,0,0
+1680275876076,26,https://pharma-shop.tn/identite-4,304,Not Modified,Thread Group 1-1,,true,,488,782,1,1,https://cdn.onesignal.com/sdks/OneSignalSDK.js,0,0,0
+1680275876076,48,https://pharma-shop.tn/identite-5,304,Not Modified,Thread Group 1-1,,true,,788,1259,1,1,https://pharma-shop.tn/img/cms/book.svg,0,0,0
+1680275876076,37,https://pharma-shop.tn/identite-6,304,Not Modified,Thread Group 1-1,,true,,742,1255,1,1,https://pharma-shop.tn/img/logo.png,0,0,0
+1680275876076,54,https://pharma-shop.tn/identite-7,304,Not Modified,Thread Group 1-1,,true,,798,1260,1,1,https://pharma-shop.tn/img/cms/link6.svg,0,0,0
+1680275876102,113,https://pharma-shop.tn/identite-8,304,Not Modified,Thread Group 1-1,,true,,742,1264,1,1,https://pharma-shop.tn/img/cms/nutrition.png,0,0,68
+1680275876114,113,https://pharma-shop.tn/identite-9,304,Not Modified,Thread Group 1-1,,true,,790,1260,1,1,https://pharma-shop.tn/img/cms/link3.svg,0,0,69
+1680275876125,114,https://pharma-shop.tn/identite-10,304,Not Modified,Thread Group 1-1,,true,,736,1277,1,1,https://pharma-shop.tn/img/cms/menu/menu-right-visage.jpg,0,0,73
+1680275876125,114,https://pharma-shop.tn/identite-11,304,Not Modified,Thread Group 1-1,,true,,736,1270,1,1,https://pharma-shop.tn/img/cms/bioxine-siteweb.png,0,0,75
+1680275876131,125,https://pharma-shop.tn/identite-12,304,Not Modified,Thread Group 1-1,,true,,738,1260,1,1,https://pharma-shop.tn/img/cms/LAINO.PNG,0,0,74
+1680275876131,117,https://pharma-shop.tn/identite-13,304,Not Modified,Thread Group 1-1,,true,,734,1262,1,1,https://pharma-shop.tn/img/cms/klorane.png,0,0,71
+1680275876216,52,https://pharma-shop.tn/identite-14,304,Not Modified,Thread Group 1-1,,true,,736,1260,1,1,https://pharma-shop.tn/img/cms/AKTIV.png,0,0,0
+1680275876227,82,https://pharma-shop.tn/identite-15,304,Not Modified,Thread Group 1-1,,true,,747,1269,1,1,https://pharma-shop.tn/img/cms/gelzone-intime.png,0,0,0
+1680275876239,73,https://pharma-shop.tn/identite-16,304,Not Modified,Thread Group 1-1,,true,,738,1258,1,1,https://pharma-shop.tn/img/cms/svr.png,0,0,0
+1680275876239,121,https://pharma-shop.tn/identite-17,304,Not Modified,Thread Group 1-1,,true,,742,1260,1,1,https://pharma-shop.tn/img/cms/sobio.png,0,0,83
+1680275876248,65,https://pharma-shop.tn/identite-18,304,Not Modified,Thread Group 1-1,,true,,740,1261,1,1,https://pharma-shop.tn/img/cms/beurer.png,0,0,0
+1680275876257,60,https://pharma-shop.tn/identite-19,304,Not Modified,Thread Group 1-1,,true,,746,1268,1,1,https://pharma-shop.tn/img/cms/nuxe-rasage_1.png,0,0,0
+1680275876268,49,https://pharma-shop.tn/identite-20,304,Not Modified,Thread Group 1-1,,true,,744,1265,1,1,https://pharma-shop.tn/img/cms/logofooter.png,0,0,0
+1680275876309,40,https://pharma-shop.tn/identite-21,304,Not Modified,Thread Group 1-1,,true,,685,1336,1,1,https://pharma-shop.tn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1680275876312,37,https://pharma-shop.tn/identite-22,304,Not Modified,Thread Group 1-1,,true,,803,1293,1,1,https://pharma-shop.tn/themes/pharmashop/assets/cache/bottom-fbcb4b960.js,0,0,0
+1680275833542,15176,Test,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,3251827,137317,1,1,null,2835,27639,609
